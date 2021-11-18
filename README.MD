@@ -10,11 +10,10 @@ Para cumprir os próximos, finalize este antes:
 
 Após cumprir o primeiro item:
 
-- Adicione uma rota para receber requisições POST com um endereço URL no corpo. Faça a requisição à URL e crie um log informando a data e hora da requisição, o link recebido e o estado da URL (online ou offline) (1 pt).
-- Valide os dados recebidos e enviados pela API com dataclasses, Pydantic ou equivalente (1 pt).
-- Crie um segundo container com um banco de dados da sua preferência e armazene os eventos POST (1pt).
-  - Adicione uma rota que permita coletar os eventos POST armazenados no DB a partir da data do evento (1 pt).
-
+- Adicione uma rota para receber requisições POST com um endereço URL no corpo. Faça a requisição à URL e crie um log informando a data e hora da requisição, o link recebido e o estado da URL (online ou offline).
+- Valide os dados recebidos e enviados pela API com dataclasses, Pydantic ou equivalente.
+- Crie um segundo container com um banco de dados da sua preferência e armazene os eventos POST .
+  - Adicione uma rota que permita coletar os eventos POST armazenados no DB a partir da data do evento.
 
 # Reposta
 
